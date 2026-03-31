@@ -211,3 +211,12 @@ footer {
   outline: none;
   border-color: #f7c08a;
 }
+#contact-info .box {
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  text-align: center;
+}
+#contact-info .box i {
+  margin-bottom: 10px;
+}
